@@ -32,6 +32,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]OUTLANDER[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://cdn.flickeringmyth.com/wp-content/uploads/2020/01/outlander-season-5-poster-600x900.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/OUTLANDER</externallink>
+<fanart>https://i.dailymail.co.uk/1s/2020/01/28/18/23993658-0-image-a-24_1580236698043.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]OZ[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/OZ</externallink>
