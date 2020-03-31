@@ -32,6 +32,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]OS SIMPSONS[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71mOJl250qL._AC_SY741_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/OS-SIMPSONS</externallink>
+<fanart>https://images.spoilertv.com/cache/the-simpsons/Season%2030/Promotional%20Episode%20Photos/Episode%2030.04%20-%20Treehouse%20of%20Horror%20XXIX/TheSimpsons_2916_THOHXXIX_Sc_1093_Avid_Color_Corrected-3_hires1_FULL.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- A família Simpsons mora na cidade de Springfield, uma cidade americana como qualquer outra. Homer trabalha como inspetor de segurança numa usina de energia nuclear. Marge tenta manter a paz em sua família. Bart é um travesso garoto de 10 anos. Lisa, 8, é a inteligente da família, que adora tocar saxofone e é vegetariana. E a pequena Maggie conquista todos enquanto não larga sua chupeta. E a série tem um rico, e muitas vezes estranho, universo de personagens que também habitam Springfield. Com roteiros inteligentes, humor subversivo e divertidamente genial, a série faz piadas de si mesma e de todo mundo que aparecer em seu caminho. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]OUTLANDER[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://cdn.flickeringmyth.com/wp-content/uploads/2020/01/outlander-season-5-poster-600x900.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/OUTLANDER</externallink>
