@@ -65,6 +65,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]RICK E MORTY[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://serieflix.net/wp-content/uploads/2019/11/ylL3eViYKBhtjaqVe4pLMslVBjR.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/RICK-E-MORTY</externallink>
+<fanart>https://releasedate.me/wp-content/uploads/2018/10/rick-and-morty-poster.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- O brilhante cientista beberrão Rick sequestra Morty, seu neto aborrescente, para viver loucuras em outros mundos e dimensões alternativas. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]STAR TREK: PICARD[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://i.ibb.co/xs6Qh97/star-trek.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/STAR-TREK-PICARD</externallink>
