@@ -131,6 +131,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]THE RESIDENT[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/09/10/21/14/1165649.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/THE-RESIDENT</externallink>
+<fanart>https://www.auditionsfree.com/content/user/2018/11/the-resident-casting-2019-1024x576.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- A série é focada nos últimos anos de treinamento de um jovem doutor que revela tudo o que acontece nos hospitais de todo o país. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]THE WALKING DEAD[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://i.ibb.co/pPpp7yd/the-walking.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/THE-WALKING-DEAD</externallink>
