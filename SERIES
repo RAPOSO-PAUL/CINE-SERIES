@@ -164,6 +164,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]THE WALKING DEAD - NOVO UNIVERSO[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/e5nrZazJuuMgMRGsX6EP1pQNJY9.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/TWD-NOVO-UNIVERSO</externallink>
+<fanart>https://geekdama.com.br/wp-content/uploads/2020/02/the-walking-dead-world-beyond-video-promocional-capa.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- A série acompanha a primeira geração de jovens que cresceu no mundo pós-apocalíptico de The Walking Dead. Segundo a sinopse, “alguns se tornarão heróis, outros se tornarão vilões, mas, no final, todos irão mudar para sempre”. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]THE FLASH[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://i.ibb.co/6W7b1Dd/images-38.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/THE-FLASH</externallink>
