@@ -238,3 +238,13 @@
 </channel>
 </channels>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]ULTIMOS EPISÓDIOS[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://i.ibb.co/42wBt6Q/icon-series.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/ULTIMOS-EPISODIOS</externallink>
+<fanart>https://i.ibb.co/qDprSkJ/fanart-series.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Episódios mais recentes de cada seriado -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
