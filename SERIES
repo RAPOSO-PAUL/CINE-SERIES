@@ -65,6 +65,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]MODERN FAMILY[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a0/Modern_Family_season_11_poster.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/MODERN-FAMILY</externallink>
+<fanart>https://cdn.hiptoro.com/wp-content/uploads/2019/02/Modern-family-season-11.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Na Série Modern Family, é filmada no estilo de documentário e mostra a vida da família Pritchett. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]OS SIMPSONS[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71mOJl250qL._AC_SY741_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/OS-SIMPSONS</externallink>
