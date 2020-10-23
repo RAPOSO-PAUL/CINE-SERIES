@@ -175,6 +175,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]STAR TREK: DISCOVERY[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Star_Trek_Discovery_season_3_poster.jpg/220px-Star_Trek_Discovery_season_3_poster.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/STAR-TREK-DISCOVERY</externallink>
+<fanart>https://cdn.mos.cms.futurecdn.net/w8jZpJaiAzCT6T4YXaNLZG-1200-80.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]STAR TREK: PICARD[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://i.ibb.co/xs6Qh97/star-trek.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/STAR-TREK-PICARD</externallink>
