@@ -109,6 +109,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]O MANDALORIANO: STAR WARS[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://sm.ign.com/ign_br/screenshot/default/the-mandalorian-poster-pascal-1193420_869m.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/O-MANDALORIANO-STAR-WARS</externallink>
+<fanart>https://i0.wp.com/viciados.net/wp-content/uploads/2020/09/O-Mandaloriano-segunda-temporada-disney-plus.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- O Mandaloriano e a Criança continuam sua jornada, enfrentando inimigos e reunindo aliados enquanto fazem seu caminho através de uma galáxia perigosa na era tumultuada após o colapso do Império Galáctico. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]OS SIMPSONS[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://streaming-engine-assets.rftslb.com/posters/image/image/1298918/list_page_main.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/OS-SIMPSONS</externallink>
