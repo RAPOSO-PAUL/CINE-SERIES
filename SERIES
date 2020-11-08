@@ -54,6 +54,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]EMPIRE[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Empire_season_six_poster.jpg/220px-Empire_season_six_poster.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/EMPIRE</externallink>
+<fanart>https://assets.foxdcg.com/dpp-uploaded/images/empire/keyart_s6b.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Na Série Empire é um drama familiar que se desenrola no cativante, mas por vezes perigoso, mundo da música hip-hop, centrando-se nos Lyon, os donos de uma discográfica. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]FEAR THE WALKING DEAD[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e2/Fear_the_Walking_Dead_Season_6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/FEAR-THE-WALKING-DEAD</externallink>
