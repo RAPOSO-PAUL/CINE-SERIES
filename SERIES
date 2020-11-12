@@ -252,6 +252,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]THE LIBERATOR[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://p2.trrsf.com/image/fget/cf/460/0/images.terra.com/2020/10/24/theliberator-poster-2.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/MINISSERIE-THE-LIBERATOR</externallink>
+<fanart>https://coletivonerd.com.br/wp-content/uploads/2020/10/the-liberator-netflix-coletivo-nerd-1000x600.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- A verdade por trás da história mais violenta e dramática da Segunda Guerra Mundial. Juntamente com sua unidade de infantaria, o oficial do Exército Felix Sparks luta para libertar o continente europeu das mazelas da guerra. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]THE WALKING DEAD - NOVO UNIVERSO[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/e5nrZazJuuMgMRGsX6EP1pQNJY9.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/TWD-NOVO-UNIVERSO</externallink>
