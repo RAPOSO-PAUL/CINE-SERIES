@@ -109,6 +109,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]LOVECRAFT COUNTRY[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://universoreverso.com.br/wp-content/uploads/2020/10/lovecraft-country-poster.jpeg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/LOVECRAFT-COUNTRY</externallink>
+<fanart>https://sm.ign.com/t/ign_pt/gallery/l/lovecraft-/lovecraft-country-season-1-photos_dnn9.1080.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Chicago, 1954. Atticus Turner é um veterano do exército que vê sua vida mudar quando seu pai desaparece misteriosamente. Decidido a encontrá-lo, o jovem embarca em uma viagem de carro ao lado do tio George e da amiga de infância Letitia, mas essa jornada não demora a se tornar muito mais perigosa do que eles esperavam. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]MODERN FAMILY[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a0/Modern_Family_season_11_poster.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/MODERN-FAMILY</externallink>
