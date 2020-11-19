@@ -32,6 +32,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]DRAGON BALL SUPER[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://i.pinimg.com/736x/80/94/66/809466eb8b3fd18e840bd78f0ce59345.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/DRAGON-BALL-SUPER</externallink>
+<fanart>https://conteudo.imguol.com.br/c/entretenimento/85/2018/09/23/nova-temporada-de-dragon-ball-super-estreia-em-1102018-no-cartoon-network-1537716480139_v2_1280x720.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- É uma série de anime criada por Akira Toriyama e produzida pela Toei Animation, que começou a ser exibida em 5 de julho de 2015.[1][2] É também uma série de mangá escrita/ilustrada por Toyotarou e supervisionada por Toriyama, serializada na revista de mangás shōnen V Jump da Shueisha. Dragon Ball Super é uma sequência para o mangá original Dragon Ball e a série de anime Dragon Ball Z, com o primeiro novo enredo em dezoito anos. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]DRAGON BALL Z - SAGA GARLICK JR[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://i.pinimg.com/originals/0f/1c/48/0f1c488c01b1c3255ff8df637e6c76a6.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/DRAGON-BALL-Z-SAGA-GARLICK-JR</externallink>
