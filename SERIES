@@ -208,6 +208,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]STRANGER THINGS[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71nBDp-RjyL._AC_SL1000_.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/STRANGER-THINGS</externallink>
+<fanart>https://gamespot1.cbsistatic.com/uploads/screen_kubrick/1578/15789737/3536840-dek.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Em uma pequena cidade onde todos conhecem a todos, um incidente peculiar inicia uma cadeia de eventos que leva ao desaparecimento de uma criança, que começa a rasgar o tecido de uma comunidade pacífica. Órgãos do governo sombrios e forças sobrenaturais aparentemente malévolas convergem para a cidade, enquanto alguns moradores locais começam a entender que há mais coisas acontecendo do que aparenta. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]SOLTOS EM FLORIPA[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://conteudo.imguol.com.br/c/entretenimento/e2/2020/03/19/cartaz-de-soltos-em-floripa-reality-show-brasileiro-do-amazon-prime-video-1584628697487_v2_1380x1920.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/SOLTOS-EM-FLORIPA</externallink>
