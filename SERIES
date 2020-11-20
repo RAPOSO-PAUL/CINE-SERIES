@@ -109,6 +109,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]LA CASA DE PAPEL[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://cdn.europosters.eu/image/1300/posters/money-heist-mask-i76976.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/LA-CASA-DE-PAPEL</externallink>
+<fanart>https://img.onmanorama.com/content/dam/mm/en/entertainment/entertainment-news/images/2020/8/1/money-heist.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]LOVECRAFT COUNTRY[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://universoreverso.com.br/wp-content/uploads/2020/10/lovecraft-country-poster.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/LOVECRAFT-COUNTRY</externallink>
