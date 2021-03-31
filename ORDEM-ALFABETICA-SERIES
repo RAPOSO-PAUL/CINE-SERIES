@@ -1,4 +1,15 @@
 <channels>
+<channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]0-9[/COLOR] [COLOR red]|[/COLOR]</name>
+<thumbnail>https://i.ibb.co/qrtfZ7P/series1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-ALFABETO/master/0-9</externallink>
+<fanart>https://ia601503.us.archive.org/27/items/fanartseries_20200217/fanartseries.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Séries que começam de 0 a 9 -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels> 
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR red]||[/COLOR][COLOR white]||[/COLOR] [COLOR white]A-B[/COLOR] [COLOR red]|[/COLOR]</name>
 <thumbnail>https://i.ibb.co/CBqtWQx/A-B-series.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-ALFABETO/master/A-B</externallink>
