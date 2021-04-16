@@ -1,6 +1,6 @@
 <item>
 <title>[COLOR white]OZ 2 TEMPORADA[/COLOR][COLOR yellow] COMPLETO[/COLOR]</title>
-<link>magnet:?xt=urn:btih:3338AD393234CCBA8A31918A02B74A60C04430A5&dn=Oz%202%20Temporada%20DVDRip%20Dual%20JohnL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3338AD393234CCBA8A31918A02B74A60C04430A5&dn=Oz%202%20Temporada%20DVDRip%20Dual%20JohnL&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>
 <thumbnail>https://i.ibb.co/5rt3Dkd/oz-2-temporada-elementum.jpg</thumbnail>
 <fanart>https://i.ibb.co/FhTMGhj/oz-2-temporada-elementum-fanart.jpg</fanart>
 <info>[COLOR white][B]Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.[/B][/COLOR]</info>
@@ -8,7 +8,7 @@
 
 <item>
 <title>[COLOR white]OZ 1 TEMPORADA[/COLOR][COLOR yellow] COMPLETO[/COLOR]</title>
-<link>magnet:?xt=urn:btih:3AB070645B0EBBA4A83AF5E86DF5157385E8CC83&dn=Oz%20-%201%C2%AA%20Temporada&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3AB070645B0EBBA4A83AF5E86DF5157385E8CC83&dn=Oz%20-%201%C2%AA%20Temporada&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
 <thumbnail>https://i.ibb.co/G5ghfHb/oz-1-temporada-elementum.jpg</thumbnail>
 <fanart>https://i.ibb.co/567pPGN/oz-1-temporada-elementum-fanart.jpg</fanart>
 <info>[COLOR white][B]Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.[/B][/COLOR]</info>
