@@ -1,63 +1,7 @@
 <item>
-<title>[COLOR white]OZ[/COLOR][COLOR yellow] [/COLOR]</title>
-<link></link>
-<thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
-<fanart>https://www.hbo.com/content/dam/hbodata/series/oz/episodes/1/oz-1-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
-<info>Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.</info>
-</item>
-
-<item>
-<title>[COLOR white]OZ 1 Temporada[/COLOR][COLOR yellow] Episódio 7[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ovh_3MUV4b2OOKSmbWhrGnO4mb4i8hyr/view</link>
-<thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
-<fanart>https://www.hbo.com/content/dam/hbodata/series/oz/episodes/1/oz-1-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
-<info>Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.</info>
-</item>
-
-<item>
-<title>[COLOR white]OZ 1 Temporada[/COLOR][COLOR yellow] Episódio 6[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1vJR2c0b6qBNAHHKIyR507wxQGGRn3kfp/view</link>
-<thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
-<fanart>https://www.hbo.com/content/dam/hbodata/series/oz/episodes/1/oz-1-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
-<info>Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.</info>
-</item>
-
-<item>
-<title>[COLOR white]OZ 1 Temporada[/COLOR][COLOR yellow] Episódio 5[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1rnVHQTlfaNt4IpNCWAo8mp4O8iyWMI8x/view</link>
-<thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
-<fanart>https://www.hbo.com/content/dam/hbodata/series/oz/episodes/1/oz-1-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
-<info>Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.</info>
-</item>
-
-<item>
-<title>[COLOR white]OZ 1 Temporada[/COLOR][COLOR yellow] Episódio 4[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1XhhDvb2avAN2yoW-CL48J034lL1rsMu_/view</link>
-<thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
-<fanart>https://www.hbo.com/content/dam/hbodata/series/oz/episodes/1/oz-1-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
-<info>Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.</info>
-</item>
-
-<item>
-<title>[COLOR white]OZ 1 Temporada[/COLOR][COLOR yellow] Episódio 3[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1o1taqLe92efjDrLqi5opCiYI1NT1IiDN/view</link>
-<thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
-<fanart>https://www.hbo.com/content/dam/hbodata/series/oz/episodes/1/oz-1-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
-<info>Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.</info>
-</item>
-
-<item>
-<title>[COLOR white]OZ 1 Temporada[/COLOR][COLOR yellow] Episódio 2[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hpnshefL41X3rHU8-U7CFmLjqwXDgkDC/view</link>
-<thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
-<fanart>https://www.hbo.com/content/dam/hbodata/series/oz/episodes/1/oz-1-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
-<info>Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.</info>
-</item>
-
-<item>
-<title>[COLOR white]OZ 1 Temporada[/COLOR][COLOR yellow] Episódio 1[/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1nZ7-YnZsULnd0Ci1dWcDISjGq-vu-LgK/view</link>
-<thumbnail>https://media.fstatic.com/lGwDGWDdEvfB-oqJpxVVXjUhsBw=/fit-in/290x478/smart/media/movies/covers/2016/02/oz-1a-temporada_t13621.jpg</thumbnail>
-<fanart>https://www.hbo.com/content/dam/hbodata/series/oz/episodes/1/oz-1-3000x1688.jpg/_jcr_content/renditions/cq5dam.web.1200.675.jpeg</fanart>
-<info>Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.</info>
+<title>[COLOR white]OZ 1 TEMPORADA[/COLOR][COLOR yellow] COMPLETO[/COLOR]</title>
+<link>magnet:?xt=urn:btih:3AB070645B0EBBA4A83AF5E86DF5157385E8CC83&dn=Oz%20-%201%C2%AA%20Temporada&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80&tr=udp%3a%2f%2ftracker.publicbt.com%3a80&tr=udp%3a%2f%2ftracker.istole.it%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ccc.de%3a80&tr=udp%3a%2f%2fopen.demonii.com%3a1337</link>
+<thumbnail>https://i.ibb.co/G5ghfHb/oz-1-temporada-elementum.jpg</thumbnail>
+<fanart>https://i.ibb.co/567pPGN/oz-1-temporada-elementum-fanart.jpg</fanart>
+<info>[COLOR white][B]Emerald City, uma unidade experimental idealizada e projetada pelo seu diretor Tim McManus, que não mede esforços para melhorar a vida dos prisioneiros, em alguns casos indo até mesmo contra o diretor da prisão Leo Glynn, acreditando que todos os presos têm recuperação.[/B][/COLOR]</info>
 </item>
