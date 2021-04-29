@@ -230,6 +230,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]O CONTO DA AIA[/COLOR]</name>
+<thumbnail>https://i.ibb.co/HTWd9vS/o-conto-da-aia-season-1-elementum.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/O-CONTO-DA-AIA</externallink>
+<fanart>https://i.ibb.co/VpgR7Fp/o-conto-da-aia-season-1-elementum-fanart.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Gilead tem um regime que trata mulheres como propriedade. Offred é uma das poucas mulheres férteis e serva do Comandante, buscando sobreviver e encontrar a filha que foi tirada dela. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]O MANDALORIANO: STAR WARS[/COLOR]</name>
 <thumbnail>https://sm.ign.com/ign_br/screenshot/default/the-mandalorian-poster-pascal-1193420_869m.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/O-MANDALORIANO-STAR-WARS</externallink>
