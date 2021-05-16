@@ -329,6 +329,17 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
+<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]STAR WARS: THE BAD BATCH[/COLOR]</name>
+<thumbnail>https://uploaddeimagens.com.br/images/003/245/024/full/Star_wars__-_The_Bad_Batch_elementum.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/STAR-WARS-THE-BAD-BATCH</externallink>
+<fanart>https://uploaddeimagens.com.br/images/003/245/029/full/Star_wars__-_The_Bad_Batch_elementum_-_fanart.jpg</fanart>
+<info>[COLOR red]|[/COLOR]- Os Mal Feitos precisam encontrar seu caminho numa galáxia em rápida transformação. -[COLOR white]|[/COLOR]</info>
+</channel>
+</channels>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]STRANGER THINGS[/COLOR]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/71nBDp-RjyL._AC_SL1000_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/STRANGER-THINGS</externallink>
