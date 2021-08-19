@@ -1,5 +1,5 @@
 <channels>
-<channel><name>[COLOR blue][B]|| [/B][/COLOR][COLOR white]DE A-Z | 0-9[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]DE A-Z | 0-9[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/LRdqZYD/0-9-A-Z.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/ORDEM-ALFABETICA-SERIES</externallink>
 <fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart><info> 
@@ -11,7 +11,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
-<channel><name>[COLOR blue][B]|| [/B][/COLOR][COLOR white]LANCAMENTOS[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]LANCAMENTOS[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/MSRWZw2/LANCAMENTOS.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/LANCAMENTOS</externallink>
 <fanart>https://i.ibb.co/pnT9QBN/FANART-ELEMENTUM.jpg</fanart><info> 
@@ -20,9 +20,7 @@
 </channel>
 </channels> 
 
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 
 <channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]5X COMEDIA[/COLOR]</name>
