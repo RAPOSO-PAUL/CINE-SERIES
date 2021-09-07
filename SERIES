@@ -383,11 +383,13 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
-<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]RICK E MORTY[/COLOR]</name>
-<thumbnail>https://serieflix.net/wp-content/uploads/2019/11/ylL3eViYKBhtjaqVe4pLMslVBjR.jpg</thumbnail>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]RICK E MORTY[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/P92djd4/rick-e-morty.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/RICK-E-MORTY</externallink>
-<fanart>https://releasedate.me/wp-content/uploads/2018/10/rick-and-morty-poster.jpg</fanart>
-<info>[COLOR red]|[/COLOR]- O brilhante cientista beberrão Rick sequestra Morty, seu neto aborrescente, para viver loucuras em outros mundos e dimensões alternativas. -[COLOR white]|[/COLOR]</info>
+<fanart>https://i.ibb.co/vQBBk8b/rick-e-morty-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2013[/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Animação[/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Rick é um velho mentalmente desequilibrado, mas cientificamente talentoso que se reconectou recentemente com sua família. Ele passa a maior parte do tempo envolvendo o jovem neto Morty em aventuras perigosas e estranhas no espaço e em universos alternativos. Compostos à vida familiar já instável de Morty, esses eventos causam muito sofrimento a Morty em casa e na escola.[/B][/COLOR]</info>
 </channel>
 </channels>
 
