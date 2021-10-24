@@ -133,8 +133,6 @@
 </channel>
 </channels> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
 <channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]EMPIRE[/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Empire_season_six_poster.jpg/220px-Empire_season_six_poster.jpg</thumbnail>
@@ -144,7 +142,16 @@
 </channel>
 </channels> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]FUNDAÇÃO[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/YcRHv2D/fundacao.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/FUNDACAO</externallink>
+<fanart>https://i.ibb.co/2hyT6pL/fundacao-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Ficção[/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Inspirada nas obras de romance de Isaac Asimov, Foundation retrata a épica jornada espacial de um grupo de exilados tentando salvar a humanidade durante a queda do Império Galáctico.[/B][/COLOR]</info>
+</channel>
+</channels>
 
 <channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]FALCAO E O SOLDADO INVERNAL[/COLOR]</name>
@@ -154,8 +161,6 @@
 <info>[COLOR red]|[/COLOR]- A dupla Sam Wilson (Falcão) e Bucky Barnes (Soldado do Inverno), que se juntou no final de "Vingadores: Endgame", une esforços numa aventura global que testará as suas capacidades – e a sua paciência. -[COLOR white]|[/COLOR]</info>
 </channel>
 </channels> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
 <channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]FEAR THE WALKING DEAD[/COLOR]</name>
