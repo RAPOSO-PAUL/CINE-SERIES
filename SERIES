@@ -571,11 +571,13 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
-<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]THE WITCHER[/COLOR]</name>
-<thumbnail>https://img.elo7.com.br/product/original/2BEE0AA/big-poster-serie-the-witcher-netflix-lo01-tamanho-90x60-cm-decoracao-geek.jpg</thumbnail> 
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]THE WITCHER[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/SrBvQtm/the-witcher-2.jpg</thumbnail> 
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/THE-WITCHER</externallink>
-<fanart>https://nerdlicious.com.br/wp-content/uploads/2019/12/the-witcher-netflix.jpg</fanart>
-<info>[COLOR red]|[/COLOR]- Geralt of Rivia (Henry Cavill), um solitário caçador de monstros, luta para achar seu lugar num mundo onde pessoas se provam mais perversas do que criaturas. Mas quando o destino o leva à uma poderosa feiticeira (Anya Chalotra) e uma jovem princesa (Freya Allan) com um segredo perigoso, os três precisam aprender a navegar pelo Continente juntos. -[COLOR white]|[/COLOR]</info>
+<fanart>https://i.ibb.co/G3yx41J/the-witcher-2-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2019[/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Fantasia[/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - O mutante Geralt de Rívia é um caçador de monstros que luta para encontrar seu lugar num mundo onde as pessoas muitas vezes são mais perversas que as criaturas selvagens.[/B][/COLOR]</info>
 </channel>
 </channels>
 
