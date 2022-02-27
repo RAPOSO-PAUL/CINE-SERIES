@@ -749,11 +749,13 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
-<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]THE WALKING DEAD[/COLOR]</name>
-<thumbnail>https://i.ibb.co/pPpp7yd/the-walking.jpg</thumbnail>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]THE WALKING DEAD[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/Z2KSCQn/twd-team.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/THE-WALKING-DEAD</externallink>
-<fanart>https://i.ibb.co/Yt9wX1L/twd.jpg</fanart>
-<info>[COLOR red]|[/COLOR]- Meses após a retribuição de Alpha, as comunidades restantes tentam lidar com as perdas, relutantemente respeitando as fronteiras que lhe são impostas, enquanto se preparam para uma inevitável batalha. Mas os Sussurradores são uma ameaça diferente de todas que eles já enfrentaram… -[COLOR white]|[/COLOR]</info>
+<fanart>https://i.ibb.co/jbtkC9g/twd-team-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2010[/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Ficção[/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Nos Estados Unidos pós-apocalíptico, um pequeno grupo de sobreviventes segue viajando à procura de uma nova casa longe dos mortos-vivos. O desespero por segurança e suprimentos os coloca constantemente à beira da sanidade.[/B][/COLOR]</info>
 </channel>
 </channels>
 
