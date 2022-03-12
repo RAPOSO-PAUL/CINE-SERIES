@@ -642,11 +642,13 @@ Ambientada nos primórdios da internet, Pam & Tommy é baseada na incrível hist
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <channels>
-<channel><name>[COLOR green][B]>> [/B][/COLOR][COLOR white]STAR TREK: PICARD[/COLOR]</name>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]STAR TREK: PICARD[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/xs6Qh97/star-trek.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES/master/STAR-TREK-PICARD</externallink>
 <fanart>https://i.ibb.co/Pcw0NzG/Star-Trek-Picard.jpg</fanart>
-<info>[COLOR red]|[/COLOR]- A vida e a história do capitão Jean-Luc Picard (Patrick Stewart), logo após os acontecimentos de Jornada nas Estrelas: A Nova Geração (1987-1994). -[COLOR white]|[/COLOR]</info>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2020[/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Ficção[/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Para impedir um desastre, Kara Danvers revela seus poderes e sua verdadeira identidade: ela é a Supergirl, a protetora de National City e prima do Superman.[/B][/COLOR]</info>
 </channel>
 </channels> 
 
