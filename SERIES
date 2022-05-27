@@ -42,3 +42,12 @@
 <info>[COLOR blue]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Apple TV+ é um serviço de streaming de vídeo sob demanda anunciado pela Apple Inc. em 2019 durante o seu evento especial de 25 de março realizado no Steve Jobs Theater. -[COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels> 
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]DISNEY PLUS[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/dghvWBM/disney-plus.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-CATEGORIAS/main/DISNEY-PLUS</externallink>
+<fanart>https://i.ibb.co/crMY7j2/disney-plus-fanart.jpg</fanart>
+<info>[COLOR blue]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Disney+ é um serviço de streaming over-the-top de vídeo -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels> 
