@@ -35,6 +35,15 @@
 </channels> 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]AMAZON PRIME VIDEO[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/rwKDBX3/prime.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-CATEGORIAS/main/PRIME-VIDEO</externallink>
+<fanart>https://i.ibb.co/TvYzMZC/prime-fanart.jpg</fanart>
+<info>[COLOR blue]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Prime Video, é um serviço de vídeo sob demanda pela Amazon -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]APPLE TV+[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/5RDdPF0/Apple-TV-ico.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-CATEGORIAS/main/APPLE-TV%2B</externallink>
@@ -51,3 +60,21 @@
 <info>[COLOR blue]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Disney+ é um serviço de streaming over-the-top de vídeo -[COLOR yellow]|[/COLOR]</info>
 </channel>
 </channels> 
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]NETFLIX[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/6FcBvW3/netflix.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-CATEGORIAS/main/NETFLIX</externallink>
+<fanart>https://i.ibb.co/zNgX4V2/netflix-fanart.jpg</fanart>
+<info>[COLOR blue]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Netflix é uma provedora global de filmes e séries de televisão via streaming -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]OUTROS STREAMINGS[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/MGhgSD3/i477341.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-CATEGORIAS/main/OUTROS-STREAMINGS</externallink>
+<fanart>https://i.ibb.co/pWj8MpP/Streaming-1-fanart.jpg</fanart>
+<info>[COLOR blue]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - Demais streamings existentes -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
