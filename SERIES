@@ -62,6 +62,15 @@
 </channels> 
 
 <channels>
+<channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]HBO MAX[/COLOR][COLOR yellow] ||[/COLOR]</name>
+<thumbnail>https://i.ibb.co/Fb7mj8q/hbo.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-CATEGORIAS/main/HBO-MAX</externallink>
+<fanart>https://i.ibb.co/YtxJ8NX/hbo-max-fanart.jpg</fanart>
+<info>[COLOR blue]|[/COLOR]- Telegram @cinekodi2020: Para dúvidas e pedidos - HBO Max é um serviço de video sob demanda global operado pela empresa Warner Bros. Discovery, a proprietária da Warner Bros, um dos cinco maiores estúdios de cinema de Hollywood. -[COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+
+<channels>
 <channel><name>[COLOR green][B]|| [/B][/COLOR][COLOR white]NETFLIX[/COLOR][COLOR yellow] ||[/COLOR]</name>
 <thumbnail>https://i.ibb.co/6FcBvW3/netflix.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/RAPOSO-PAUL/CINE-SERIES-CATEGORIAS/main/NETFLIX</externallink>
